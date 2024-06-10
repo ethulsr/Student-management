@@ -1,6 +1,7 @@
 # student_managment
 
 A new Flutter project.
+Using State Management GetX
 
 ## Getting Started
 
